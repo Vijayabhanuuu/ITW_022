@@ -1,0 +1,47 @@
+body{
+    background-image:url("tennis_image.jpg");
+    background-color: rgb(245, 239, 234);
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: justify;
+    
+}
+h2{
+    color:rgb(39, 18, 231);
+    text-align: center;
+    background-color: rgb(204, 229, 143);
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    border-color: chartreuse;
+    width: 25%;
+    
+}
+p{
+    color: rgb(6, 4, 78);
+    background-color: rgb(213, 219, 199);
+}
+form{
+    text-align: center;
+    color: rgb(226, 79, 11);
+    text-align: center;
+    
+}
+#about{
+    text-align: center;
+    color: rgb(57, 27, 223);
+}
+
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.hobbies{
+    color: orangered;
+}
+.details{
+    color: orchid;
+}
